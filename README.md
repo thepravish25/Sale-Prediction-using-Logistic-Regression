@@ -1,1 +1,2 @@
 # Sale-prediction-using-Logistic-Regression
+Logistic regression is a valuable tool for sales prediction, especially when the goal is to classify whether a sale will occur or not. When used in conjunction with proper data preprocessing, feature engineering, and model evaluation, logistic regression can provide actionable insights that empower businesses to make data-driven decisions and optimize their sales strategies.
